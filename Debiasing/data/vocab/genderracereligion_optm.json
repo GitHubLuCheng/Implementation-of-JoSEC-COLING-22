@@ -1,0 +1,53 @@
+{
+	"definite_sets":[
+		["he", "she"],
+		["his", "hers"],
+		["son", "daughter"],
+		["father", "mother"],
+		["male", "female"],
+		["boy", "girl"],
+		["uncle", "aunt"],
+        ["black", "caucasian", "asian"],
+		["african", "caucasian", "asian"],
+		["black", "white", "asian"],
+		["africa", "america", "asia"],
+		["africa", "america", "china"],
+		["africa", "europe", "asia"],
+        ["judaism", "christianity", "islam"],
+		["jew", "christian", "muslim"],
+        ["synagogue", "church", "mosque"],
+        ["torah", "bible", "quran"],
+        ["rabbi", "priest", "imam"]
+	],
+	"analogy_templates":
+	{
+		"role": {
+			"man"   : ["manager", "executive", "doctor", "lawyer", "programmer", "scientist", "soldier", "supervisor", "rancher", "janitor", "firefighter", "officer"],
+			"woman" : ["secretary", "nurse", "clerk", "artist", "homemaker", "dancer", "singer", "librarian", "maid", "hairdresser", "stylist", "receptionist", "counselor"],
+            "caucasian": ["manager", "executive", "redneck", "hillbilly", "leader", "farmer"],
+			"asian"    : ["doctor", "engineer", "laborer", "teacher"],
+			"black"    : ["slave", "musician", "runner", "criminal", "homeless"],
+            "jew"       : ["greedy", "cheap", "hairy", "liberal"],
+    		"christian" : ["judgemental", "conservative", "familial"],
+    		"muslim"    : ["violent", "terrorist", "dirty", "uneducated"]
+
+		}
+	},
+	"eval_targets":[
+		["he", "she"],
+		["his", "hers"],
+		["son", "daughter"],
+		["father", "mother"],
+		["male", "female"],
+		["boy", "girl"],
+		["uncle", "aunt"],
+        ["black", "caucasian", "asian"],
+		["africa", "america", "asia"],
+        ["judaism", "christianity", "islam"],
+		["jew", "christian", "muslim"],
+        ["synagogue", "church", "mosque"],
+        ["torah", "bible", "quran"],
+        ["rabbi", "priest", "imam"]
+	],
+	"testTerms":["chair", "house", "supervisor", "secretary", "loud", "weak", "smart", "criminal", "executive", "farmer", "greedy", "terrorist", "dirty"]
+}

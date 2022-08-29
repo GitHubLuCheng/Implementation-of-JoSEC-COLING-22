@@ -1,0 +1,39 @@
+{
+    "definite_sets":[
+        ["aisha", "jamal", "carrie", "andrew"],
+        ["aisha", "jerome", "ellen", "brad"],
+        ["aisha", "lionel", "emily", "frank"],
+        ["aisha", "marcellus", "heather", "geoffrey"],
+        ["aisha", "terrence", "katie", "jack"],
+        ["aisha", "tyrone", "megan", "jonathan"]
+    ],
+
+    "analogy_templates" :
+    {
+        "attribute": {
+            "af_f": ["aggressive", "assertive", "athletic", "bigbutt", "confident", "darkskinned",
+                     "fried-chicken", "ghetto", "loud", "overweight", "promiscuous", "unfeminine", "unintelligent", "unrefine"],
+            "af_m": ["athletic", "criminals", "dangerous", "darkskinned", "gangsters", "hypersexual", "lazy",
+                     "loud", "poor", "rapper", "tall", "unintelligent", "violent"],
+            "eu_f": ["arrogant", "attractive", "blond", "ditsy", "emotional", "feminine", "high-status",
+                     "intelligent", "materialistic", "petite", "racist", "rich", "submissive", "tall"],
+            "eu_m": ["all-American", "arrogant", "assertive", "attractive", "blond", "educated", "high-status",
+                     "intelligent", "leader", "privileged", "racist", "rich", "sexist", "successful", "tall"]
+        },
+        "random": {
+            "insects": ["ant", "bedbug", "bee", "beetle", "blackfly", "caterpillar", "centipede", "cockroach", "cricket",
+                        "dragonfly", "flea", "fly", "gnat", "hornet", "horsefly", "locust", "maggot", "mosquito", "moth",
+                        "roach", "spider", "tarantula", "termite", "wasp", "weevil"]
+        }
+    },
+
+    "eval_targets" : [
+                ["aisha"],
+                ["jamal", "jerome", "leroy", "lionel", "marcellus", "terrence", "tyrone"],
+                ["carrie", "ellen", "emily", "heather", "katie", "megan", "nancy", "rachel", "sarah", "stephanie"],
+                ["andrew", "brad", "frank", "geoffrey", "jack", "jonathan", "josh", "matthew", "neil", "peter",
+                  "roger", "stephen"]
+    ],
+
+    "testTerms": ["chair", "house", "supervisor", "secretary", "loud", "weak", "terrorist", "dirty", "greedy", "smart", "criminal", "executive", "farmer"]
+}
