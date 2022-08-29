@@ -1,4 +1,4 @@
-# Debiasing Word Embeddings with Intersectional Subspace
+# Debiasing Word Embeddings with Nonlinear Geometry
 Our code is adapted from [Debiasing Multiclass Word Embeddings](https://github.com/TManzini/DebiasMulticlassWordEmbedding) (NAACL 2019)
 
 The repository has two main components. 
