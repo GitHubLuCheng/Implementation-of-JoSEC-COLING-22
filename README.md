@@ -1,4 +1,6 @@
 # Debiasing Word Embeddings with Nonlinear Geometry
+
+Implementation of our COLING22 paper Debiasing Word Embeddings with Nonlinear Geometry [1]
 Our code is adapted from [Debiasing Multiclass Word Embeddings](https://github.com/TManzini/DebiasMulticlassWordEmbedding) (NAACL 2019)
 
 The repository has two main components. 
@@ -48,3 +50,6 @@ The following python packages are required (Python 3).
 * pytorch 1.9.0
 * matplotlib 3.4.2
 * jupyter 1.0.0
+
+# Reference
+[1] Debiasing Word Embeddings with Nonlinear Geometry
