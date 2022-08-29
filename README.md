@@ -53,4 +53,4 @@ The following python packages are required (Python 3).
 * jupyter 1.0.0
 
 ### Reference
-> [1] Lu Cheng, Nayoung Kim and Huan Liu. Debiasing Word Embeddings with Nonlinear Geometry. Proceedings of the 29th International Conference on Computational Linguistics (COLING), 2022.
+> [1] [Lu Cheng](https://www.public.asu.edu/~lcheng35/), [Nayoung Kim](https://nayoungkim94.github.io/) and [Huan Liu](https://www.public.asu.edu/~huanliu/). Debiasing Word Embeddings with Nonlinear Geometry. Proceedings of the 29th International Conference on Computational Linguistics (COLING), 2022.
