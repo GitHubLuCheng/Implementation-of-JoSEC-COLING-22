@@ -1,4 +1,4 @@
-# Debiasing Word Embeddings with Nonlinear Geometry
+# Implementation-of-JoSEC-COLING-22
 
 Implementation of our COLING22 paper Debiasing Word Embeddings with Nonlinear Geometry [1]
 
